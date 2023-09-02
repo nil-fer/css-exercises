@@ -88,6 +88,9 @@ button.cancel {
   font-size: 18px;
   font-weight: 700;
   margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .text {

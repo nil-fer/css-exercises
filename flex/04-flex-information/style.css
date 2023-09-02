@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 img {
@@ -24,3 +25,14 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.plants {
+  margin-top: 32px;
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+
+}
+.saffron, .chilli, .pepper, .barberry {
+    max-width: 200px;
+ }
